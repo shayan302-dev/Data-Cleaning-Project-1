@@ -1,0 +1,8 @@
+Company,Revenue ($M),Profit Margin (%),Industry,CEO,Employees,Stock Price,HQ City,Founded Year,Market Cap ($B),Ticker Symbol,Debt ($M)
+ABC Corp,100.0,10.0,Banking,John Doe,500.0,50.5,New York,1990.0,2.5,ABC,500.0
+XYZ Inc,200.0,-5.0,Insurance,Jane Smith,454.0,45.25,London,1985.0,5.0,XYZ,500.0
+PQR Ltd,175.0,10.5,Banking,Alan Brown,120.0,40.0,New York,2000.0,1.2,N/A,300.0
+123 Corp,150.0,8.0,Investment,Mark Lee,450.0,32.5,Toronto,1992.0,3.0,123,500.0
+Shayan Enterprises,100.0,20.0,Insurance,Unkown,700.0,25.0,Paris,1995.0,1.5,INS,200.0
+TechCorp,200.0,5.0,Banking,John Doe,500.0,50.5,New York,1990.0,2.8,ABC,500.0
+LMN Inc,300.0,25.0,Banking,Sarah Davis,454.0,60.0,New York,1992.0,4.0,LMN,500.0
